@@ -1,5 +1,7 @@
 # alpha
 verify git setup
+
+***
 What are the Use-Cases where NowAssist can add value?
 1. IT Service Desk Support:
 Use Case: A large enterprise has a centralized IT service desk that handles a high volume of support requests from employees across different departments. Implementing NowAssist allows employees to seek immediate assistance directly within the ServiceNow portal.
